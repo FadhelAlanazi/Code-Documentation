@@ -25,16 +25,12 @@
 
 ----------
 ### تحميل برنامج Doxygen
-1. تحميل برنامج Doxygen على نظام Windows
-- لتحميل البرنامج يرجى زيارة الموقع https://www.doxygen.nl/download.html ثم الضغط على الرابط كما هو موضح في الصورة أدناه
 
+لتحميل برنامج Doxygen على نظام Mac يرجى زيارة الموقع https://www.doxygen.nl/download.html
 
-2. تحميل برنامج Doxygen على نظام Mac
-- لتحميل البرنامج يرجى زيارة الموقع https://www.doxygen.nl/download.html ثم الضغط على الرابط كما هو موضح في الصورة أدناه
+لتحميل برنامج Doxygen على نظام Windows يرجى زيارة الموقع https://www.doxygen.nl/download.html 
 
-
-3. تحميل برنامج Doxygen على نظام Linux
-- لتحميل برنامج Doxygen على نظام Linux يرجى زيارة الموقع https://www.doxygen.nl/download.html ثم الضغط على الرابط كما هو موضح في الصورة أدناه
+لتحميل برنامج Doxygen على نظام Linux يرجى زيارة الموقع https://www.doxygen.nl/download.html 
 
 
 
